@@ -14,4 +14,32 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stack.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="word.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="star.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="frame.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="getnum.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="switch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
